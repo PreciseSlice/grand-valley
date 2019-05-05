@@ -1,0 +1,28 @@
+byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# tests and coverage
+*.pytest_cache
+.coverage
+
+# database & logs
+*.db
+*.log
+
+# venv
+env
+venv
+
+# other
+.DS_Store
+.idea/*
+*.pyc
+instance/
+htmlcov/
+dist/
+build/
+*.egg-info/
+
+# javascript
+package-lock.json
